@@ -30,6 +30,9 @@ I'm SodaGummy (๑'ᵕ'๑)⸝* ! I mainly do game development here!
   </tr>
 </table>
 
+
+≽(•⩊ •マ≼
+
 <!--
 **SodaGummy/SodaGummy** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
