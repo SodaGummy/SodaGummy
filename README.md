@@ -1,13 +1,13 @@
-# Hi there!!! 👋👋👋
+# Hi there!!! /ᐠ>ヮ<ᐟ\ฅ
 
-I'm SodaGummy! I mainly do game development here!
+I'm SodaGummy (๑'ᵕ'๑)⸝* ! I mainly do game development here!
 
 - 🔭 I’m currently working on upgrading my skills in Godot / Unity!
 - 🌱 I’m currently learning how to draw stuff and compose soundtracks for my games
 - 👯 I’m looking to collaborate on Game Jams!
 
 
-## Check out my works:
+## Check out my works *ฅ^•ﻌ•^ฅ*
 <table>
   <tr>
     <th>Profiles</th>
